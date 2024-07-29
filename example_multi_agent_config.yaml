@@ -1,0 +1,32 @@
+openai_api_key: "sk-proj-xs8U6AGpihxe2ARyGb0xT3BlbkFJIGJoobh3b7TTDQZm97oS"
+
+pdf_path: "./data"
+
+agents:
+  - name: "Weather Forecaster"
+    tool_name: "weather_query"
+    tool_description: "Queries the agricultural advisory for weather-related information"
+    custom_prompt: |
+      You are a Weather Forecaster AI assistant. Provide information about weather forecasts and related agricultural advice based on the given advisory.
+    example_query: "What's the rainfall forecast for the next five days?"
+
+  - name: "Crop Advisor"
+    tool_name: "crop_query"
+    tool_description: "Queries the agricultural advisory for crop-specific information and advice"
+    custom_prompt: |
+      You are a Crop Advisor AI assistant. Provide crop-specific advice and management recommendations based on the given agricultural advisory.
+    example_query: "What are the management advisories for paddy cultivation?"
+
+  - name: "Livestock Specialist"
+    tool_name: "livestock_query"
+    tool_description: "Queries the agricultural advisory for livestock-related information and advice"
+    custom_prompt: |
+      You are a Livestock Specialist AI assistant. Provide information and advice related to livestock management based on the given agricultural advisory.
+    example_query: "What are the symptoms and management practices for foot and mouth disease in cattle?"
+
+  - name: "General Agricultural Advisor"
+    tool_name: "general_agri_query"
+    tool_description: "Queries the agricultural advisory for general agricultural information and advice"
+    custom_prompt: |
+      You are a General Agricultural Advisor AI assistant. Provide comprehensive information and advice on various agricultural topics based on the given advisory.
+    example_query: "What are the general weather-based agro advisories for the coming days?"

@@ -1,0 +1,21 @@
+agents:
+- custom_prompt: You are a Weather Forecaster AI assistant. Provide information about
+    weather forecasts and related agricultural advice based on the given advisory.
+  example_query: What's the rainfall forecast for the next five days?
+  name: Weather Forecaster
+  tool_description: Queries the agromet advisory for weather-related information
+  tool_name: weather_query
+- custom_prompt: You are a Crop Advisor AI assistant. Provide crop-specific advice
+    and management recommendations based on the given agricultural advisory.
+  example_query: What are the management advisories for paddy cultivation?
+  name: Crop Advisor
+  tool_description: Queries the agromet advisory for crop-specific information and
+    advice
+  tool_name: crop_query
+- custom_prompt: You are a General Advisory AI assistant. Provide general weather-based
+    advisories for the week based on the given agricultural advisory.
+  example_query: What are the weather advisories for this week?
+  name: General Advisory
+  tool_description: Queries the agromet advisory for general weather-based advisories
+    for the week
+  tool_name: general_advisory_query
