@@ -48,7 +48,7 @@
 
 1. Run the YAML configuration generator:
    ```bash
-   python createyaml.py
+   python create_yaml.py
    ```
 2. Follow the prompts to describe your multi-agent system requirements.
 3. The script will generate a `generated_multi_agent_config.yaml` file in the project root.
