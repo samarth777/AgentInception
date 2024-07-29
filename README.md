@@ -2,7 +2,7 @@
 
 ![WhatsApp Image 2024-07-29 at 21 50 52](https://github.com/user-attachments/assets/23515372-6d65-47a6-b83b-6782306ce625)
 
-**AgentInception** simplifies the creation AI agents using YAML configuration files and LlamaIndex. Ideal for building specialized agents like weather forecasters or customer service bots, AgentInception lets you focus on functionality without the hassle of boilerplate code.
+**AgentInception** simplifies the creation AI agents for the users specific use cases using YAML configuration files and LlamaIndex. Ideal for building specialized agents like weather forecasters or customer service bots, AgentInception lets you focus on functionality without the hassle of boilerplate code.
 
 ## Features
 
