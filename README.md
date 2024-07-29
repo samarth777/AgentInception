@@ -6,18 +6,13 @@
 
 ## Features
 
-- **Easy Configuration**: Define agents with simple YAML files.
+- **Easy Configuration**: Define agents through simple natural language descriptions and the agent creates the appropriate agents and toold for you.
 - **Function Integration**: Incorporate custom functions as tools.
 - **Versatile Applications**: Create agents for various domains.
 - **Custom Prompts**: Tailor each agent's prompt to its role.
 - **Multi-Agent Support**: Manage multiple agents with distinct functions.
 - **LlamaIndex Integration**: Utilize LlamaIndex for improved knowledge management and query capabilities.
 
-## Prerequisites
-
-- Python 3.7 or higher
-- Git
-- OpenAI API key
 
 ## Setup
 
