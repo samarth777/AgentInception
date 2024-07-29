@@ -1,4 +1,4 @@
-# AgentInception: Multi-Agent System Generator
+# AgentInception: Multi-Agent AI System Generator
 
 ![WhatsApp Image 2024-07-29 at 21 50 52](https://github.com/user-attachments/assets/23515372-6d65-47a6-b83b-6782306ce625)
 
