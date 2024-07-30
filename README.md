@@ -100,7 +100,6 @@ For any other problems, please open an issue on the GitHub repository.
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=samarth777/AgentInception&type=Date)](https://star-history.com/#samarth777/AgentInception&Date)
-
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
