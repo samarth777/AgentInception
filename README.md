@@ -24,7 +24,7 @@
 
 2. **Install Dependencies**:
    ```bash
-   pip install -r requirements.txt
+   pip install llama-index pyyaml
    ```
 
 3. **Set up your OpenAI API key**:
